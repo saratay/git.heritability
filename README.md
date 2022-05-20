@@ -1,4 +1,4 @@
-# heritability
+# git.heritability
 Code underlying analyses for "Heritability of quantitative autism spectrum traits in adults: A family-based study" published in _Autism Research_
 
 Will provide underlying data for "DemTable_1.19.21.R" and "ViolinPlots_3.5.21.R" once have permission from collaborators
